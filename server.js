@@ -95,10 +95,6 @@ app.get('/ui/main.js', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'main.js'));
 });
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 02a93db70dd1dfc0ea9eca98cca5132bc53db19c
 app.get('/ui/madi.png', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'madi.png'));
 });
