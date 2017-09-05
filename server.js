@@ -39,7 +39,7 @@ var articles={
 		title: 'Article Three|Hemavathy',
 		heading: 'Article Three',
 		date: 'August 15, Tuesday, 2017',
-		content:`<p>This is my content for the third article. Happy Independence Day to all out there in the IMAD community:)
+		content:`<p>Happy learning!!!
 		    	</p>`
 		}
 };
