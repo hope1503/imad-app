@@ -19,26 +19,28 @@ var articles={
 		title: 'Article One|Hemavathy',
 		heading: 'Article One',
 		date: 'August 8, Tuesday, 2017',
-		content: `<p>This is my content for the first article.This is my 				content for the first article. This is my content for the 				first article.This is my content for the first article.This 			is my content for the first article.
-	    	  	</p>
-	    	  	<p>This is my content for the first article.This is my 					content for the first article. This is my content for the 				first article.This is my content for the first article.This 			is my content for the first article.
-	    	 	</p>
-	          	<p>This is my content for the first article.This is my 					content for the first article. This is my content for the 				first article.This is my content for the first article.This 			is my content for the first article.
-	   	 	</p>`
+		content: `<p>This is my content for the first article.This is my content for the first article. This is my content for the 			    	first article.This is my content for the first article.This is my content for the first article.
+	    	  	  </p>
+	    	  	  <p>This is my content for the first article.This is my content for the first article. This is my content for the 	
+	    	  	    first article.This is my content for the first article.This is my content for the first article.
+	    	 	  </p>
+	          	  <p>This is my content for the first article.This is my content for the first article. This is my content for the 	
+	          	    first article.This is my content for the first article.This is my content for the first article.
+	   	 	      </p>`
 		},
 	'article-two' : {
 		title: 'Article Two|Hemavathy',
 		heading: 'Article Two',
 		date: 'August 10, Thursday, 2017',
-		content:`<p>This is my content for the second article. Thank you 			sir and team for such a nice learning experience which I've 				never experienced before.
-	   		</p>`	 
+		content:`<p>This is my content for the second article. Thank you sir and team for such a nice learning experience which I've 				never experienced before.
+	   	    	</p>`	 
 		},
 	'article-three' : {
 		title: 'Article Three|Hemavathy',
 		heading: 'Article Three',
 		date: 'August 15, Tuesday, 2017',
-		content:`<p>This is my content for the third article. Happy 				Independence Day to all out there in the IMAD community:)
-			</p>`
+		content:`<p>This is my content for the third article. Happy Independence Day to all out there in the IMAD community:)
+		    	</p>`
 		}
 };
 
